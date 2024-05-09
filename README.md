@@ -1,2 +1,2 @@
 # mediatR-and-minimalApi
-Example for Q blog 
+Example for project using Serilog , MediatR and Minimal Apis
